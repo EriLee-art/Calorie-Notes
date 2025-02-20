@@ -27,8 +27,6 @@ export function renderNotes(meal: Meal) {
     return mealDiv
 }
 
-
-
 // Renders all the meals from mealList
 export function renderNotesList() {
   notesContainer.innerHTML = "";
