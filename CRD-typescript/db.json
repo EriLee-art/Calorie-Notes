@@ -1,0 +1,25 @@
+{
+  "meal": [
+    {
+      "mealTime": "Breakfast",
+      "foodItem": "Waffles",
+      "servingSize": "2",
+      "calories": 180,
+      "id": 1
+    },
+    {
+      "mealTime": "Lunch",
+      "foodItem": "Fried Rice",
+      "servingSize": "1 Cup",
+      "calories": 238,
+      "id": 2
+    },
+    {
+      "mealTime": "Dinner",
+      "foodItem": "Chicken Adobo",
+      "servingSize": "1 Small Plate",
+      "calories": 361,
+      "id": 3
+    }
+  ]
+}
